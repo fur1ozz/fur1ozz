@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-[![Boot.dev Learn TypeScript certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/2f5eac9a-2846-4ff7-a672-0a12e3129508.jpeg?v=1790192656)](https://www.boot.dev/certificates/2f5eac9a-2846-4ff7-a672-0a12e3129508)
+[![Boot.dev Learn TypeScript certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/2f5eac9a-2846-4ff7-a672-0a12e3129508.jpeg?v=1790193086)](https://www.boot.dev/certificates/2f5eac9a-2846-4ff7-a672-0a12e3129508)
+
 <!--
 **fur1ozz/fur1ozz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
